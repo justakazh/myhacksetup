@@ -16,6 +16,6 @@ git clone https://github.com/justakazh/yusub
 chmod +x /yusub/yusub
 mv /yusub/yusub /usr/local/bin
 git clone https://github.com/justakazh/yuyu_scanner
-chmod +x /yuyu_scanner/yuyu
-mv /yuyu_scanner/yuyu /usr/local/bin
+chmod +x /yuyu_scanner/yuyu.py
+mv /yuyu_scanner/yuyu.py /usr/local/bin
 git clone https://github.com/danielmiessler/SecLists  /opt/seclist
